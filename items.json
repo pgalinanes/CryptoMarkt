@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Chef's Knife",
+    "price": 50,
+    "image": "https://example.com/chefs-knife.jpg"
+  },
+  {
+    "name": "Cutting Board",
+    "price": 20,
+    "image": "https://example.com/cutting-board.jpg"
+  },
+  {
+    "name": "Mixing Bowl",
+    "price": 10,
+    "image": "https://example.com/mixing-bowl.jpg"
+  },
+  {
+    "name": "Spatula",
+    "price": 5,
+    "image": "https://example.com/spatula.jpg"
+  },
+  {
+    "name": "Can Opener",
+    "price": 3,
+    "image": "https://example.com/can-opener.jpg"
+  }
+]
